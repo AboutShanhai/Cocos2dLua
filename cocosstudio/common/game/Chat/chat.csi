@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="chat" Type="Plist" ID="7dec5a90-b8c1-4adc-a4c2-210bde6238b6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="common/game/Chat/btn_emoji_1.png" />
+      <FilePathData Path="common/game/Chat/btn_fix_1.png" />
+      <FilePathData Path="common/game/Chat/img_chat_bg.png" />
+      <FilePathData Path="common/game/Chat/img_choice_line.png" />
+      <FilePathData Path="common/game/Chat/nick_bg2.png" />
+      <FilePathData Path="common/game/Chat/yuyin_bg.png" />
+      <FilePathData Path="common/game/Chat/btn_emoji_2.png" />
+      <FilePathData Path="common/game/Chat/btn_fix_2.png" />
+      <FilePathData Path="common/game/Chat/btn_chat.png" />
+      <FilePathData Path="common/game/Chat/btn_send.png" />
+      <FilePathData Path="common/game/Chat/fix_bg.png" />
+      <FilePathData Path="common/game/Chat/input_bg.png" />
+      <FilePathData Path="common/game/Chat/nick_bg1.png" />
+      <FilePathData Path="common/game/Chat/text_bg.png" />
+      <FilePathData Path="common/game/Chat/yy_tishi.png" />
+      <FilePathData Path="common/game/Chat/btn_emoji_3.png" />
+    </ImageFiles>
+    <MaxSize Width="540" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

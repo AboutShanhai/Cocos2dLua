@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="trusteeship" Type="Plist" ID="9cfa14e2-53d1-4988-a26f-25c484782dda" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/trusteeship/plist/trusteeship_bg2.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_frame.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_frame1.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_frame2.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_info_bg.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_input.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_mask.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_tip.png" />
+      <FilePathData Path="client/trusteeship/plist/trusteeship_tipinfo_title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

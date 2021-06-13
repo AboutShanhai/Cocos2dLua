@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UnionBindBankLayer" Type="Plist" ID="86179466-1340-473b-bc64-e66f53081c90" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_InputBg.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_PullDown.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_Btn.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBank_list_bg.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBank_slider.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBank_slider_1.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_Icon.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_bankArea.png" />
+      <FilePathData Path="client/UnionBindBankLayer/plist/bindBnak_select.png" />
+    </ImageFiles>
+    <MaxSize Width="650" Height="650" />
+  </Content>
+</PlistInfoProjectFile>

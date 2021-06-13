@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UnionMatchLayer" Type="Plist" ID="66a3a4a8-acf2-4e7a-ab2f-5d62b24d667d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/UnionMatchLayer/plist/match_Btn_QuicklyJoin.png" />
+      <FilePathData Path="client/UnionMatchLayer/plist/match_img_matchTitle.png" />
+      <FilePathData Path="client/UnionMatchLayer/plist/match_img_unionTitle.png" />
+      <FilePathData Path="client/UnionMatchLayer/plist/match_img_userInfo.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

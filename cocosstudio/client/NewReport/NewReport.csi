@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="NewReport" Type="Plist" ID="bb7800be-b66a-46e5-be5b-81f7990c1202" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/NewReport/plist/FinaleReport_Item_bg.png" />
+      <FilePathData Path="client/NewReport/plist/FinaleReport_Rect.png" />
+      <FilePathData Path="client/NewReport/plist/FinaleReport_Title.png" />
+      <FilePathData Path="client/NewReport/plist/FinalReport_BigWinner.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

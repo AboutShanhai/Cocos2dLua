@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="set" Type="Plist" ID="b5e75290-0006-472a-a8f9-41dff94794f8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/set/plist/bar.png" />
+      <FilePathData Path="client/set/plist/bar_bg.png" />
+      <FilePathData Path="client/set/plist/btn_desktop1.png" />
+      <FilePathData Path="client/set/plist/btn_desktop2.png" />
+      <FilePathData Path="client/set/plist/btn_dismiss.png" />
+      <FilePathData Path="client/set/plist/btn_shock.png" />
+      <FilePathData Path="client/set/plist/btn_shockNo.png" />
+      <FilePathData Path="client/set/plist/choice.png" />
+      <FilePathData Path="client/set/plist/choice_bg.png" />
+      <FilePathData Path="client/set/plist/point_node.png" />
+      <FilePathData Path="client/set/plist/room_exit.png" />
+      <FilePathData Path="client/set/plist/btn_logout.png" />
+      <FilePathData Path="client/set/plist/btn_slide.png" />
+      <FilePathData Path="client/set/plist/exit_game.png" />
+      <FilePathData Path="client/set/plist/img_bar.png" />
+      <FilePathData Path="client/set/plist/img_bar_bg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

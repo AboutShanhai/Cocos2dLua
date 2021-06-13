@@ -1,0 +1,36 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UnionActivity" Type="Plist" ID="8cf42c72-17a2-42a1-b5f6-8ce1aa8ed6b6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="5" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/UnionActivity/plist/activity_btn_rank_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_btn_rank_2.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_me_rank.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_2.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_3.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_bottom_s9.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_info_s9.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_1_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_1_2.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_2_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_2_2.png.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_3_1.png.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_select_3_2.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_slide_s9.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_rank_slide_title.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_close.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_s9_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_tab_bg.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_tab_btn_1.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_tab_btn_2.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_tab_line.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_title.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_img_no.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_img_no_data.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_me_info.png" />
+      <FilePathData Path="client/UnionActivity/plist/rebate_s9.png" />
+      <FilePathData Path="client/UnionActivity/plist/activity_matchTime.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

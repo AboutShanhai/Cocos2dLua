@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="HallLayer" Type="Plist" ID="f84a36b3-f7c4-425b-ba60-39f0b8ea811f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/HallLayer/plist/hall_bindphont.png" />
+      <FilePathData Path="client/HallLayer/plist/hall_btnRule.png" />
+      <FilePathData Path="client/HallLayer/plist/hall_btnService.png" />
+      <FilePathData Path="client/HallLayer/plist/hall_btnSet.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

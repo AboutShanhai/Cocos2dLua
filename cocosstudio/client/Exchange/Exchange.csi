@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Exchange" Type="Plist" ID="c60e3804-f105-46b2-9a8d-0011a097138b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/Exchange/plist/excg_btn_blue.png" />
+      <FilePathData Path="client/Exchange/plist/excg_Btn_Details.png" />
+      <FilePathData Path="client/Exchange/plist/excg_btn_orange.png" />
+      <FilePathData Path="client/Exchange/plist/excg_Btn_Service.png" />
+      <FilePathData Path="client/Exchange/plist/excg_btn_yellow.png" />
+      <FilePathData Path="client/Exchange/plist/excg_slider_background.png" />
+      <FilePathData Path="client/Exchange/plist/excg_slider_btn.png" />
+      <FilePathData Path="client/Exchange/plist/excg_slider_foreground.png" />
+      <FilePathData Path="client/Exchange/plist/excg_Img_tip.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="yvyin" Type="Plist" ID="2053a30b-bf22-43a8-b195-2e1c20c1ffff" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/yvyin/cancel.png" />
+      <FilePathData Path="client/yvyin/cd1.png" />
+      <FilePathData Path="client/yvyin/cd2.png" />
+      <FilePathData Path="client/yvyin/cd3.png" />
+      <FilePathData Path="client/yvyin/cd4.png" />
+      <FilePathData Path="client/yvyin/cd5.png" />
+      <FilePathData Path="client/yvyin/yinliang1.png" />
+      <FilePathData Path="client/yvyin/yinliang2.png" />
+      <FilePathData Path="client/yvyin/yinliang3.png" />
+      <FilePathData Path="client/yvyin/yinliang4.png" />
+      <FilePathData Path="client/yvyin/yinliang5.png" />
+      <FilePathData Path="client/yvyin/yinliang6.png" />
+      <FilePathData Path="client/yvyin/yinliang7.png" />
+      <FilePathData Path="client/yvyin/yinliang8.png" />
+      <FilePathData Path="client/yvyin/yuyin_bg.png" />
+      <FilePathData Path="client/yvyin/yuyin2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AllianceManages" Type="Plist" ID="e53fde71-2a32-4a47-8771-cc402ec83d17" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Cheeck_Sel.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Cheeck_UnSel.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_AddPartnerIcon.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_AddPartnerInfoBg.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_InputBg.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_UserInfoBg.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_s9_1.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_s9_3.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_s9_4.png" />
+      <FilePathData Path="client/AllianceManages/plist/AllianceManages_Img_search.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

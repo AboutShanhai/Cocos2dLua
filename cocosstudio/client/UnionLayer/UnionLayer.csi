@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UnionLayer" Type="Plist" ID="8f23c107-c207-4aa5-a4d3-babc8fe9a28d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_BusinessCard.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_CreateRoom.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_Record.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btn_safe.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_Score.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_SuperRebate.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_admin.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_gonggao.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btnClose.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btn_table_rule.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btn_update.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_icon_copy.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_icon_reddot.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_table_num_bg.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_Btn_Activity.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btn_alliance_fund.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_icon_banker.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_game_tag_bg_0_0.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_game_tag_bg_0_1.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_game_tag_bg_1_0.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_game_tag_bg_1_1.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_chong.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_chong_bg.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_level_text_bg_0.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_level_text_bg_1.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_level_text_bg_2.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_roomlevel_1.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_roomlevel_mask.png" />
+      <FilePathData Path="client/UnionLayer/plist/union_icon_roomlevel_0.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_TopLeft_BG.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_TopRight_BG.png" />
+      <FilePathData Path="client/UnionLayer/plist/Union_btn_joinroom.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

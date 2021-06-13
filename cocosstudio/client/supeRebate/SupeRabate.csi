@@ -1,0 +1,9 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SupeRabate" Type="Plist" ID="9ea7e0a7-d213-40bd-b1e3-131ae26b5702" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="client/supeRebate/plist/SupeRebate_Close.png" />
+    </ImageFiles>
+    <MaxSize Width="128" Height="128" />
+  </Content>
+</PlistInfoProjectFile>
